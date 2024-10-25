@@ -8,7 +8,7 @@ Listening to the audio, it vaguely sounds like a tone that you would hear out of
 
 ```minimodem -r -f transmissions.wav 1200```
 
-![Alt text](images/2.solution.PNG)
+![Alt text](images/2.solution.png)
 
 ```flag{f28d133e7174c412c1e39b4a84158fa3}```
 
