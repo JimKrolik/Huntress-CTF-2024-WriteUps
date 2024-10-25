@@ -29,7 +29,6 @@ Using our Jedi mind tricks, we were able to figure out the game was not going to
 
 We are told the flag is in our inventory, which it now is.
 
+![Alt text](images/8.flag.PNG)
 
 Flag: ```flag{18bdd83cee5690321bb14c70465d3408}```
-
-![Alt text](images/8.flag.PNG)
