@@ -1,4 +1,4 @@
-(1. Challenge.PNG?raw=true "Challenge")
+![Alt text](1. Challenge.PNG?raw=true "Challenge")
 
 We are given the provided text file and need to decode it.
 
@@ -33,7 +33,6 @@ decodeddata = base65536.decode(data)
 
 with open("decodedfile", mode="wb") as file:
         file.write(decodeddata)
-
 ```
 
 
