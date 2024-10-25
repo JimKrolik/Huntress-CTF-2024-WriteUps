@@ -2,6 +2,8 @@
 
 We are given the provided text file and need to decode it.
 
+![Alt text](images/2._File_Type.PNG)
+
 Running the file command against the downloaded file, we can see it is a unicode encoded text file.  I wrote a quick Python script to decode the data.
 
 ```python
@@ -19,7 +21,7 @@ This returns the following byte string:
 b'H4sIAG0OA2cA/+2QvUt6URjHj0XmC5ribzBLCwKdorJoSiu9qRfCl4jeILSICh1MapCINHEJpaLJVIqwTRC8DQ5BBQ0pKtXUpTej4C4lBckvsCHP6U9oadDhfL7P85zzPTx81416LYclYgEAOLgOGwKgxgnrJKMK8j4kIaAwF3TjiwCwBejQQDAshK82cKx/2BnO3xzhmEmoMWn/qdU+ntTUIO8gmOw438bbCwRv3Y8vE2ens9y5sejat497l51sTRO18E8j2aSAAkixqhrKFl8E6fZfotmMlw7Z3NKFmvp92s8+HMg+zTwaycvVQlnSn7FYW2LFYY0+X18JpB9LCYliSm6LO9QXvfaIbJAqvNsL3lTP6vJ596GyKIaXBnNdRJahnqYLnlQ4d+LfbQ91vpH0Y4NSYwhk8tmv/5vFZFnHWrH8qWUkTfgfUPXKcFVi+5Vlx7V90OjLjZqtqMMH9FhMZfGUALnotancBQAA'
 ```
 
-The file is nothing meaningful so I attempted to base64 decode it to try to determine if anything useful was contained within.  After checking the newly base64 decoded file, I found it was a gzip archive.  Extracting the archive reveals an image.
+The data itself appears to be nothing, so I updated my script and saved the data for further examination.
 
 Updated script:
 
@@ -35,8 +37,15 @@ with open("decodedfile", mode="wb") as file:
         file.write(decodeddata)
 ```
 
+The file is nothing meaningful so I attempted to base64 decode it to try to determine if anything useful was contained within.  After checking the newly base64 decoded file, I found it was a gzip archive.
+![Alt text](images/3._Decoded_file.PNG)
 
-Using a color picker these are the hex values of each color block:
+Extracting the archive reveals an image.
+
+![Alt text](images/4._Decoded_file_2.PNG)
+![Alt text](images/5._Extracted_Image.PNG)
+
+Using the color picker and converting the decimal RGB to Hex we get the following values for each block in order:
 
 666c61
 677b35
@@ -52,6 +61,11 @@ Using a color picker these are the hex values of each color block:
 666636
 617d20
 
+![Alt text](images/6._Color_Picker.PNG)
+![Alt text](images/7._Color_Value.PNG)
+
 Converting them from hex to ascii reveals the flag.
 
 flag{586cf8c849c9730ea7b2112fff39ff6a}
+
+![Alt text](images/8._Converting_Hex_to_ASCII.PNG)
