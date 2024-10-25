@@ -1,4 +1,4 @@
-![Alt text](images/1._Challenge.PNG)
+![Alt text](images/1.Challenge.PNG)
 
 We are given an id_rsa file to work with.
 ![Alt text](images/2.id_rsa.PNG)
