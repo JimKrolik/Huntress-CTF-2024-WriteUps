@@ -42,8 +42,8 @@ The file is nothing meaningful so I attempted to base64 decode it to try to dete
 
 Extracting the archive reveals an image.
 
-!(images/4._Decoded_file_2.PNG)
-!(images/5._Extracted_Image.PNG)
+![Alt text](images/4._Decoded_file_2.PNG)
+![Alt text](images/5._Extracted_Image.PNG)
 
 Using the color picker and converting the decimal RGB to Hex we get the following values for each block in order:
 
