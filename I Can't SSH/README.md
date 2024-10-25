@@ -1,6 +1,6 @@
 Challenge:
 
-![Alt text](images/1.dChallenge.PNG)
+![Alt text](images/1.Challenge.PNG)
 
 We are given an id_rsa file to work with.
 
