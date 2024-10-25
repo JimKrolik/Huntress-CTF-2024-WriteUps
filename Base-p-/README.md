@@ -1,3 +1,5 @@
+(1. Challenge.PNG?raw=true "Challenge")
+
 We are given the provided text file and need to decode it.
 
 Running the file command against the downloaded file, we can see it is a unicode encoded text file.  I wrote a quick Python script to decode the data.
