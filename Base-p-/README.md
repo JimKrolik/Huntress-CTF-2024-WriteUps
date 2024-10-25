@@ -1,4 +1,4 @@
-![Alt text](images/1. Challenge.PNG)
+![Alt text](images/1._Challenge.PNG)
 
 We are given the provided text file and need to decode it.
 
