@@ -1,6 +1,6 @@
 Challenge:
 
-![Alt text](images/1.challenge.PNG)
+![Alt text](images/1.challenge.png)
 
 Browsing to the website we are greeted with Whamazon with options to examine our inventory or buy.
 
