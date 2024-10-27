@@ -34,11 +34,28 @@ Changing the auth cookie out and forwarding the request, we now see the admin pa
 
 ![Admin Dashboard](images/8.adminlogin.PNG)
 
-dGVzdHVzZXIuMS4xNzI5ODg2NjA3
-
 Additionally, we can now access the Logs tab, which appears to give us visibility into the operating system.
 
-If we examine one of the plants, we can see there is a command to 
+If we examine one of the plants, we can see there is an option to set an alert command.
 
+![Alert Command](images/10.alertcommand.PNG)
 
+This corresponds with one of the API options we have to trigger the send mail.
 
+![API Send Mail](images/11.sendmailapi.PNG)
+
+We can update the send mail command and append ```&& cat flag.txt```
+
+![Updated command](images/12.updatecommand.PNG)
+
+Finally, we will authorize the API and trigger the command, we can see it successfully sent.
+
+![API authorized](images/13.sendmailsuccessful.PNG)
+
+![API executed](images/14.sendmailsuccessful.PNG)
+
+If we go review the log, we will find our flag.
+
+![Flag](images/15.flag.PNG)
+
+Flag: ```flag{c29c4d53fc432f7caeb573a9f6eae6c6}```
