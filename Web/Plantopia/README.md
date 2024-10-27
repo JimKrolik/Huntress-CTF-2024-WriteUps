@@ -38,7 +38,7 @@ dGVzdHVzZXIuMS4xNzI5ODg2NjA3
 
 Additionally, we can now access the Logs tab, which appears to give us visibility into the operating system.
 
-If we examine one of the plants, we can see there is a comand to 
+If we examine one of the plants, we can see there is a command to 
 
 
 
