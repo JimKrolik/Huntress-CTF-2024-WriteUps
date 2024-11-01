@@ -2,7 +2,9 @@ Challenge:
 
 ![Alt text](images/1.challenge.PNG)
 
-Read the rules!  After reviewing the rules, if you view the source, you will find the flag.
+Read the rules!  
+
+After reviewing the rules, if you view the source of hte web page, you will find the flag.
 
 ![Alt text](images/2.flag.PNG)
 
