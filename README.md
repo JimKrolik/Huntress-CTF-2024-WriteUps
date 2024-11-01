@@ -4,7 +4,7 @@ Release schedule for the event:
 Tuesday, October 1, 2024
 - Read The Rules - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/df14a5707b1bb72b7a42b7d30c049d415588aa05/Warmups/Read%20The%20Rules)
 - Technical Support - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/6e794bee40b2747c8012adb04d83ad6321593492/Warmups/Technical%20Support)
-- More Challenges Tomorrow (Placeholder for the event, no write-up)
+- More Challenges Tomorrow (No write-up)
 - matryoshkaQR
 - base64by32
 - too_many_bits
@@ -99,7 +99,7 @@ Tuesday, October 22, 2024
 - Plantopia - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e0880ede02d953a8700a5ca9f7625c83d7bd49fa/Web/Plantopia)
 
 Wednesday, October 23, 2024
-- ping_me - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e0880ede02d953a8700a5ca9f7625c83d7bd49fa/Malware/Ping%20Me)
+- Ping Me - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e0880ede02d953a8700a5ca9f7625c83d7bd49fa/Malware/Ping%20Me)
 - time_will_tell
 
 Thursday, October 24, 2024
