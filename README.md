@@ -2,9 +2,9 @@
 Release schedule for the event:
 
 Tuesday, October 1, 2024
-- read_the_rules (no write-up)
-- technical_support (no write-up)
-- more_challenges_tomorrow (no write-up)
+- Read The Rules (no write-up)
+- Technical Support (no write-up)
+- More Challenges Tomorrow (no write-up)
 - matryoshkaQR
 - base64by32
 - too_many_bits
@@ -20,7 +20,7 @@ Thursday, October 3, 2024
 - russian_roulette
 
 Friday, October 4, 2024
-- whamazon
+- Whamazon - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e0880ede02d953a8700a5ca9f7625c83d7bd49fa/Warmups/Whamazon)
 - malibu
 
 Saturday, October 5, 2024
@@ -33,17 +33,17 @@ Sunday, October 6, 2024
 
 Monday, October 7, 2024
 - mimi
-- system_code
+- System Code - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e0880ede02d953a8700a5ca9f7625c83d7bd49fa/Miscellaneous/System%20Code)
 
 Tuesday, October 8, 2024
 - zimmer_down
 - ran_somewhere
-- base_p
+- Base-p- - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e0880ede02d953a8700a5ca9f7625c83d7bd49fa/Miscellaneous/Base-p-)
 - mystery
 
 Wednesday, October 9, 2024
 - GoCrackMe1
-- i_cant_ssh
+- I Can't SSH - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e0880ede02d953a8700a5ca9f7625c83d7bd49fa/Warmups/I%20Can't%20SSH)
 
 Thursday, October 10, 2024
 - GoCrackMe2
@@ -51,7 +51,7 @@ Thursday, October 10, 2024
 
 Friday, October 11, 2024
 - GoCrackMe3
-- typo
+- Typo - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e0880ede02d953a8700a5ca9f7625c83d7bd49fa/Warmups/Typo)
 
 Saturday, October 12, 2024
 - x-ray
@@ -67,10 +67,10 @@ Monday, October 14, 2024
 
 Tuesday, October 15, 2024
 - sekiro
-- transmissions
+- 1200 Transmissions - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e0880ede02d953a8700a5ca9f7625c83d7bd49fa/Miscellaneous/1200%20transmissions)
 
 Wednesday, October 16, 2024
-- echo_chamber
+- Echo Chamber - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e0880ede02d953a8700a5ca9f7625c83d7bd49fa/Scripting/Echo%20Chamber)
     
 Thursday, October 17, 2024
 - linux_basics
@@ -96,10 +96,10 @@ Monday, October 21, 2024
 
 Tuesday, October 22, 2024
 - rustline
-- plantopia
+- Plantopia - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e0880ede02d953a8700a5ca9f7625c83d7bd49fa/Web/Plantopia)
 
 Wednesday, October 23, 2024
-- ping_me
+- ping_me - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e0880ede02d953a8700a5ca9f7625c83d7bd49fa/Malware/Ping%20Me)
 - time_will_tell
 
 Thursday, October 24, 2024
