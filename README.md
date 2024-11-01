@@ -15,7 +15,7 @@ Wednesday, October 2, 2024
 - Red Phish Blue Phish
 
 Thursday, October 3, 2024
-- cattle
+- Cattle - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/1b2184df564847feb10431c1c64689011ca957de/Warmups/Cattle)
 - Nightmare on Hunt Street (Bundle)
 - russian_roulette
 
