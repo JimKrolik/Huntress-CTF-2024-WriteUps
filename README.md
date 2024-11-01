@@ -3,7 +3,7 @@ Release schedule for the event:
 
 Tuesday, October 1, 2024
 - Read The Rules (no write-up)
-- Technical Support (no write-up)
+- Technical Support - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/6e794bee40b2747c8012adb04d83ad6321593492/Warmups/Technical%20Support)
 - More Challenges Tomorrow (Placeholder for the event, no write-up)
 - matryoshkaQR
 - base64by32
