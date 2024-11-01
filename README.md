@@ -11,7 +11,7 @@ Tuesday, October 1, 2024
 - strange_calc
 
 Wednesday, October 2, 2024
-- No Need For Brutus [Write-up]((https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/13f9e2ae4b922ec8fcfe7d826c45ddd973bbda5f/Cryptography/No%20need%20for%20Brutus))
+- No Need For Brutus [Write-up]\((https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/13f9e2ae4b922ec8fcfe7d826c45ddd973bbda5f/Cryptography/No%20need%20for%20Brutus)\)
 - Red Phish Blue Phish
 
 Thursday, October 3, 2024
