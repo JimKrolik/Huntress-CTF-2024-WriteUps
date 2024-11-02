@@ -5,7 +5,7 @@ Tuesday, October 1, 2024
 - Read The Rules - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/df14a5707b1bb72b7a42b7d30c049d415588aa05/Warmups/Read%20The%20Rules)
 - Technical Support - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/6e794bee40b2747c8012adb04d83ad6321593492/Warmups/Technical%20Support)
 - More Challenges Tomorrow (No flag)
-- matryoshkaQR
+- MatryoshkaQR
 - base64by32
 - too_many_bits
 - strange_calc
