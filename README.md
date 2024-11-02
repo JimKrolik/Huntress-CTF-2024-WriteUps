@@ -128,4 +128,4 @@ Wednesday, October 30, 2024
 Thursday, October 31, 2024
 - Palimpsest
 
-[Final Score](Final Score.png)
+![Final Score](Final Score.png)
