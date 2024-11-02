@@ -35,3 +35,9 @@ if __name__ == "__main__":
     bytes_to_png(byte_string, output_file_path)
     print(f"PNG file saved as {output_file_path}")
 ```
+
+The exported file is another QR code.  Scanning it reveals the flag.
+
+![Flag](images/flag.PNG)
+
+Flag: ```flag{01c6e24c48f48856ee3adcca00f86e9b}```
