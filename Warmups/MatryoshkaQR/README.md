@@ -38,6 +38,6 @@ if __name__ == "__main__":
 
 The exported file is another QR code.  Scanning it reveals the flag.
 
-![Flag](images/flag.PNG)
+![Flag](images/4.flag.PNG)
 
 Flag: ```flag{01c6e24c48f48856ee3adcca00f86e9b}```
