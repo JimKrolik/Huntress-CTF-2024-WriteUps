@@ -7,7 +7,7 @@ Tuesday, October 1, 2024
 - More Challenges Tomorrow (No flag)
 - MatryoshkaQR - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/2f663f4c3e5280da341b8ea76443c4f2e17eae32/Warmups/MatryoshkaQR)
 - Base64by32 - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/2ff9dba1c507ab8017ec7fdb30d17f8f76dc6e3e/Scripting/Base64by32)
-- too_many_bits
+- Too Many Bits - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/11cca51dd2c403bee0f703b2bcc1b529f146b8a8/Warmups/Too%20Many%20Bits)
 - strange_calc
 
 Wednesday, October 2, 2024
