@@ -32,7 +32,7 @@ Sunday, October 6, 2024
 - discount_programming_devices
 
 Monday, October 7, 2024
-- mimi
+- Mimi - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/d9ae42a9128e2b183e024de88b7e88acbec96b69/Malware/Mimi)
 - System Code - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e0880ede02d953a8700a5ca9f7625c83d7bd49fa/Miscellaneous/System%20Code)
 
 Tuesday, October 8, 2024
