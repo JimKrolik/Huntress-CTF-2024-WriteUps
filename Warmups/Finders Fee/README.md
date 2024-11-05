@@ -8,7 +8,7 @@ We are told that we need to escalate our privileges to claim the flag.  There se
 
 We can see that the SGID bit is set for find.  Because of this, we are able to execute in the same permission set as the owner, which in this case is root.
 
-With that, we are able to find the flag in the root user's directory.
+With that, we are able to find the flag in the user's directory.
 
 ```find / -name flag.txt -exec cat {} \; 2>/dev/null```
 
