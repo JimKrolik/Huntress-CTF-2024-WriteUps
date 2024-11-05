@@ -47,7 +47,7 @@ Wednesday, October 9, 2024
 
 Thursday, October 10, 2024
 - GoCrackMe2
-- finders_fee
+- Finders Fee - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/f30fa2b69f5e0f8aad91d0288a066d91624b016c/Warmups/Finders%20Fee)
 
 Friday, October 11, 2024
 - GoCrackMe3
