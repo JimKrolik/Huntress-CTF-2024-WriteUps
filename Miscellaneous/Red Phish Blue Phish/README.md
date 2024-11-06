@@ -11,9 +11,13 @@ If we visit the websyte pyrchdata.com and browse to the "Meet the Team" tab, we 
 From here, I connected with netcat and performed a phishing attack.
 
 ```HELO pyrchdata.com```
+
 ```MAIL FROM: <jdaveren@pyrchdata.com>```
+
 ```RCPT TO: <swilliams@pyrchdata.com>```
+
 ```DATA```
+
 ```Subject: This is super important
 From: "Joe Daveren" <jdaveren@pyrchdata.com>
 
