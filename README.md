@@ -24,7 +24,7 @@ Friday, October 4, 2024
 - malibu
 
 Saturday, October 5, 2024
-- unbelievable
+- Unbelievable - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/85930c9f68bb55cd7997c2ddd31cb49321004c4e/Warmups/Unbelievable)
 - ocean_locust
 
 Sunday, October 6, 2024
