@@ -87,7 +87,7 @@ Saturday, October 19, 2024
 - eco_friendly
 
 Sunday, October 20, 2024
-- y2j
+- Y2J - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/0988dfac7509436aab68df18d5d66f39f4944d3e/Web/Y2J)
 - splunk_ii
 
 Monday, October 21, 2024
