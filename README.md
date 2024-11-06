@@ -39,7 +39,7 @@ Tuesday, October 8, 2024
 - zimmer_down
 - ran_somewhere
 - Base-p- - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e0880ede02d953a8700a5ca9f7625c83d7bd49fa/Miscellaneous/Base-p-)
-- mystery
+- Mystery - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/3dd74ee620cbf1a2216e9937084ba304145b6135/Warmups/Mystery)
 
 Wednesday, October 9, 2024
 - GoCrackMe1
