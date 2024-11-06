@@ -74,7 +74,7 @@ Wednesday, October 16, 2024
     
 Thursday, October 17, 2024
 - linux_basics
-- the_void
+- The Void - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e994dc323e866eed485b509076f4d8d74ab995bc/Warmups/The%20Void)
 - moveable
 - baby buffer overflow
 
