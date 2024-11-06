@@ -18,3 +18,4 @@ n: 0xf441e8019b210c07380865b801a062665210f08461f3d484ee16acba80fb7eff305ff5d5cde
 
 ![Primo Hex Garbage](images/2.nc.PNG)
 
+We know from the prefix and the challenge text that we are dealing with a hex string.  Additionally, the values of p, q, d, and e are generally used denote an rsa encryption.  
