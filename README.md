@@ -12,7 +12,7 @@ Tuesday, October 1, 2024
 
 Wednesday, October 2, 2024
 - No Need For Brutus - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/13f9e2ae4b922ec8fcfe7d826c45ddd973bbda5f/Cryptography/No%20need%20for%20Brutus)
-- Red Phish Blue Phish
+- Red Phish Blue Phish - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/b5a53b1237bb13613fafa833163ee8bc47dca018/Miscellaneous/Red%20Phish%20Blue%20Phish)
 
 Thursday, October 3, 2024
 - Cattle - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/1b2184df564847feb10431c1c64689011ca957de/Warmups/Cattle)
