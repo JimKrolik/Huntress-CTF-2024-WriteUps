@@ -18,13 +18,13 @@ From here, I connected with netcat and performed a phishing attack.
 
 ```DATA```
 
-```Subject: This is super important
-From: "Joe Daveren" <jdaveren@pyrchdata.com>
-
-Sarah,
-
-Just kidding, this was a test.
-
+```Subject: This is super important\
+From: "Joe Daveren" <jdaveren@pyrchdata.com>\
+\
+Sarah,\
+\
+Just kidding, this was a test.\
+\
 Joe.```
 
 After completing the phish, we receive the flag.
