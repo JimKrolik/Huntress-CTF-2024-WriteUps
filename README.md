@@ -73,7 +73,7 @@ Wednesday, October 16, 2024
 - Echo Chamber - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e0880ede02d953a8700a5ca9f7625c83d7bd49fa/Scripting/Echo%20Chamber)
     
 Thursday, October 17, 2024
-- linux_basics
+- Linux Basics - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/70a644e5d4e4da7533580c5ff7c62d43d970a23d/Miscellaneous/Linux%20Basics)
 - The Void - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e994dc323e866eed485b509076f4d8d74ab995bc/Warmups/The%20Void)
 - moveable
 - baby buffer overflow
