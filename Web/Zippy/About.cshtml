@@ -1,0 +1,9 @@
+@page
+@using System.IO
+@{
+    string flag = string.Empty;
+    flag = System.IO.File.ReadAllText("/app/flag.txt");
+}
+<div>
+    <p>@flag</p>
+</div>
