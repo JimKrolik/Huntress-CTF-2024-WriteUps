@@ -91,7 +91,7 @@ Sunday, October 20, 2024
 - splunk_ii
 
 Monday, October 21, 2024
-- rsa_decrypt
+- Strive Marish Leadman TypeCDR
 - HelpfulDesk - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/6041c414416c138312224f14d8345dc30711f06d/Web/HelpfulDesk)
 
 Tuesday, October 22, 2024
