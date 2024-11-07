@@ -17,7 +17,7 @@ Wednesday, October 2, 2024
 Thursday, October 3, 2024
 - Cattle - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/1b2184df564847feb10431c1c64689011ca957de/Warmups/Cattle)
 - Nightmare on Hunt Street (Bundle)
-- russian_roulette
++ russian_roulette
 
 Friday, October 4, 2024
 - Whamazon - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e0880ede02d953a8700a5ca9f7625c83d7bd49fa/Warmups/Whamazon)
@@ -42,20 +42,20 @@ Tuesday, October 8, 2024
 - Mystery - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/3dd74ee620cbf1a2216e9937084ba304145b6135/Warmups/Mystery)
 
 Wednesday, October 9, 2024
-- GoCrackMe1
++ GoCrackMe1
 - I Can't SSH - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e0880ede02d953a8700a5ca9f7625c83d7bd49fa/Warmups/I%20Can't%20SSH)
 
 Thursday, October 10, 2024
-- GoCrackMe2
++ GoCrackMe2
 - Finders Fee - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/f30fa2b69f5e0f8aad91d0288a066d91624b016c/Warmups/Finders%20Fee)
 
 Friday, October 11, 2024
-- GoCrackMe3
++ GoCrackMe3
 - Typo - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e0880ede02d953a8700a5ca9f7625c83d7bd49fa/Warmups/Typo)
 
 Saturday, October 12, 2024
-- x-ray
-- zulu
++ x-ray
++ zulu
 
 Sunday, October 13, 2024
 - ObfuscationStation
@@ -117,15 +117,15 @@ Sunday, October 27, 2024
 - revenge_of_dpd
 
 Monday, October 28, 2024
-- rusty_bin
++ rusty_bin
 
 Tuesday, October 29, 2024
-- in_plain_sight
++ in_plain_sight
 
 Wednesday, October 30, 2024
 - Zippy - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/ab913eec7d7621a8a449bfeab8a4afb78dc88425/Web/Zippy)
 
 Thursday, October 31, 2024
-- Palimpsest
++ Palimpsest 
 
 ![Final Score](FinalScore.png)
