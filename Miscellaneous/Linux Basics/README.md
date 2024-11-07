@@ -8,17 +8,18 @@ We netcat to the machine and type ```answer``` to bring up the questions.
 
 Question 0: What's your home directory?  
 
+We can find the answer by exporting environment variables.  ```export```
+
 ![Q0](images/q0.PNG)
 
-We can find the answer by exporting environment variables.  ```export```
 
 Answer: ```/home/user```
 
 Question 1: Search the man pages. What command would you use to generate random permutations?
 
-![Q1](images/q1.PNG)
-
 A little bit of Googling reveals the answer.  However, to find it in linux, ```man shuf```
+
+![Q1](images/q1.PNG)
 
 Answer: ```shuf```
 
