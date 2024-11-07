@@ -8,7 +8,7 @@ Tuesday, October 1, 2024
 - MatryoshkaQR - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/2f663f4c3e5280da341b8ea76443c4f2e17eae32/Warmups/MatryoshkaQR)
 - Base64by32 - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/2ff9dba1c507ab8017ec7fdb30d17f8f76dc6e3e/Scripting/Base64by32)
 - Too Many Bits - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/11cca51dd2c403bee0f703b2bcc1b529f146b8a8/Warmups/Too%20Many%20Bits)
-- Strange Calc
++ Strange Calc
 
 Wednesday, October 2, 2024
 - No Need For Brutus - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/13f9e2ae4b922ec8fcfe7d826c45ddd973bbda5f/Cryptography/No%20need%20for%20Brutus)
@@ -36,7 +36,7 @@ Monday, October 7, 2024
 - System Code - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e0880ede02d953a8700a5ca9f7625c83d7bd49fa/Miscellaneous/System%20Code)
 
 Tuesday, October 8, 2024
-- zimmer_down
++ zimmer_down
 - ran_somewhere
 - Base-p- - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e0880ede02d953a8700a5ca9f7625c83d7bd49fa/Miscellaneous/Base-p-)
 - Mystery - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/3dd74ee620cbf1a2216e9937084ba304145b6135/Warmups/Mystery)
@@ -58,7 +58,7 @@ Saturday, October 12, 2024
 + zulu
 
 Sunday, October 13, 2024
-- ObfuscationStation
++ ObfuscationStation
 - Little Shop Of Hashes (Bundle)
 
 Monday, October 14, 2024
@@ -79,7 +79,7 @@ Thursday, October 17, 2024
 - baby buffer overflow
 
 Friday, October 18, 2024
-- eepy
++ eepy
 - permission_to_proxy
 
 Saturday, October 19, 2024
@@ -100,7 +100,7 @@ Tuesday, October 22, 2024
 
 Wednesday, October 23, 2024
 - Ping Me - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e0880ede02d953a8700a5ca9f7625c83d7bd49fa/Malware/Ping%20Me)
-- time_will_tell
++ time_will_tell
 
 Thursday, October 24, 2024
 - knights_quest
@@ -111,7 +111,7 @@ Friday, October 25, 2024
 - Feedback - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/d33f0e5960097ca95d024b834e1ee4876b0090e7/Feedback)
 
 Saturday, October 26, 2024
-- thats_life
++ thats_life
 
 Sunday, October 27, 2024
 + revenge_of_dpd
