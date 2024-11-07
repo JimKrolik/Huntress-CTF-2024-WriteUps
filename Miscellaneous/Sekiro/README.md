@@ -4,7 +4,7 @@ Challenge:
 
 The challenge translates to "You are dead."
 
-After we connect to the machine, we receive an opponent move and are prompted for a move.
+After we connect to the machine, we receive an opponent move and are prompted for a move.  We need to act fast or our connection drops and we are killed.
 
 ![Sekiro](images/2.load.PNG)
 
