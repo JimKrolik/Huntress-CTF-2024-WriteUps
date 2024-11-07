@@ -22,9 +22,7 @@ Furthermore, if we browse around to /root and /app, we can see the website is li
 
 ![/app](images/6.browseapp.PNG)
 
-Given we have the capability to read the root folder, we likely are running as root.  Also, with the project in /app being named 'Slippy', I felt this may be susceptible to a zip slip attack.
-
-I tested uploading a file and was able to place a file wherever I wanted.  After browsing around further, I found that /app/Pages held the files for this website.
+Given we have the capability to read the root folder, we likely are running as root.  I tested uploading a file and was able to place a file wherever I wanted.  After browsing around further, I found that /app/Pages held the files for this website.
 
 ![Browse /app/Pages](images/7.apppages.PNG)
 
@@ -39,7 +37,7 @@ Using the general guide from [Microsoft](https://learn.microsoft.com/en-us/aspne
 }  
 <div>  
     <p>@flag</p>  
-</div>```
+</div>  ```
 
 I uploaded the file, catching the request with Burpsuite, and overwrote the /app/Pages/About.csthml file.
 
