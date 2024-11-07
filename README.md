@@ -66,7 +66,7 @@ Monday, October 14, 2024
 - HiddenStreams
 
 Tuesday, October 15, 2024
-- sekiro
+- Sekiro - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/bef2bd1f803ef64e6055f8f5e0f9897ccf03c114/Miscellaneous/Sekiro)
 - 1200 Transmissions - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e0880ede02d953a8700a5ca9f7625c83d7bd49fa/Miscellaneous/1200%20transmissions)
 
 Wednesday, October 16, 2024
