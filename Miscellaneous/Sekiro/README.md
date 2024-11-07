@@ -14,17 +14,17 @@ After connecting multiple times, we eventually come up with the list of moves:
 
 Furthermore, if we start responding, we can find combinations to keep the game going.
 
-Opponent: retreat
-Your move: strike
-
-Opponent: strike
-Your move: block
-
-Opponent: block
-Your move: advance
-
-Opponent: advance
-Your move: retreat
+Opponent: retreat  
+Your move: strike  
+  
+Opponent: strike  
+Your move: block  
+  
+Opponent: block  
+Your move: advance  
+  
+Opponent: advance  
+Your move: retreat  
 
 I took this knowledge and wrote a python script to connect to the machine and play the game.
 
