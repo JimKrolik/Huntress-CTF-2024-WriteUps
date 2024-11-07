@@ -123,7 +123,7 @@ Tuesday, October 29, 2024
 - in_plain_sight
 
 Wednesday, October 30, 2024
-- zippy
+- Zippy - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/ab913eec7d7621a8a449bfeab8a4afb78dc88425/Web/Zippy)
 
 Thursday, October 31, 2024
 - Palimpsest
