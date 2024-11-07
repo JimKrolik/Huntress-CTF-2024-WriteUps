@@ -28,8 +28,8 @@ Saturday, October 5, 2024
 - ocean_locust
 
 Sunday, October 6, 2024
-- txt_message
-- discount_programming_devices
+- TXT Message - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/bb44efc1e55c9b43f640f29d138e9555e9186e58/Warmups/TXT%20Message)
++ discount_programming_devices
 
 Monday, October 7, 2024
 - Mimi - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/d9ae42a9128e2b183e024de88b7e88acbec96b69/Malware/Mimi)
@@ -114,7 +114,7 @@ Saturday, October 26, 2024
 - thats_life
 
 Sunday, October 27, 2024
-- revenge_of_dpd
++ revenge_of_dpd
 
 Monday, October 28, 2024
 + rusty_bin
