@@ -4,11 +4,11 @@ Challenge:
 
 Visiting the page, we can see it is running squid proxy 3.5.27.
 
-I did some research into fuzzing behind squid proxy and found this article by [Hacktricks](https://book.hacktricks.xyz/network-services-pentesting/3128-pentesting-squid)
+I did some research into fuzzing behind squid proxy and found this article by [Hacktricks](https://book.hacktricks.xyz/network-services-pentesting/3128-pentesting-squid).
 
-From there, I found a repository for [Spose](https://github.com/aancw/spose)
+From there, I found a repository for [Spose](https://github.com/aancw/spose).
 
-After a slow process of adding blocks of ports to the script, I finally found port 50000 was open.
+After a slow process of adding blocks of ports to the script to not upset the rate limiting gods at Huntress, I finally found port 50000 was open.
 
 ![Port 50000](images/3.fuzzingbehindproxy.PNG)
 
@@ -18,7 +18,7 @@ Sending a curl to the address reveals that it is performing a directory listing 
 
 One of the files that stands out here is the ```.docker-entrypoint.sh``` file.
 
-From this, it looks we have a socat find shell sitting on the other side on port 50000 and it's running as the user "user".  Let's abuse this knowledge and search for an SSH key.  A quick curl to ```curl -x http://challenge.ctf.games:32611 http://127.0.0.1:50000/home/user/.ssh/id_rsa``` gives us the following private key:
+From this, it looks we have a socat bind shell sitting on the other side on port 50000 and it's running as the user "user".  Let's abuse this knowledge and search for an SSH key.  A quick curl to ```curl -x http://challenge.ctf.games:32611 http://127.0.0.1:50000/home/user/.ssh/id_rsa``` gives us the following private key:
 
 ```
 -----BEGIN OPENSSH PRIVATE KEY-----
