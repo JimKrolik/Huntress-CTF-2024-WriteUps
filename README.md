@@ -80,7 +80,7 @@ Thursday, October 17, 2024
 
 Friday, October 18, 2024
 + eepy
-- permission_to_proxy
+- Permission to Proxy - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/175a4bc11ece4211f464ac3e1a90d4ffa3172923/Miscellaneous/Permission%20to%20Proxy)
 
 Saturday, October 19, 2024
 + Stack It
