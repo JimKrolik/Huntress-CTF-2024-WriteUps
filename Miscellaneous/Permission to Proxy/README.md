@@ -75,6 +75,6 @@ The bit is set on bash, so escalating to root is as simple as ```/bin/bash -p```
 
 From here we check /root and find our flag.
 
-![Flag](flag.PNG)
+![Flag](images/flag.PNG)
 
 Flag: ```flag{c9bbd4888086111e9f632d4861c103f1}```
