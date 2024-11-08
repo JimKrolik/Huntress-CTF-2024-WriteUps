@@ -1,12 +1,14 @@
 Challenge:
 
 ![Challenge](images/1.challenge.PNG)
-
+  
+  
+  
 To do:  add code analysis
-
-
-
-
+  
+  
+  
+  
 
 I set up my ngrok listener and netcat on my machine.
 
