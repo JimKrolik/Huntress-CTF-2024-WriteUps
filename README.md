@@ -16,7 +16,7 @@ Wednesday, October 2, 2024
 
 Thursday, October 3, 2024
 - Cattle - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/1b2184df564847feb10431c1c64689011ca957de/Warmups/Cattle)
-- Nightmare on Hunt Street (Bundle)
++ Nightmare on Hunt Street (Bundle)
 + russian_roulette
 
 Friday, October 4, 2024
@@ -59,7 +59,7 @@ Saturday, October 12, 2024
 
 Sunday, October 13, 2024
 + ObfuscationStation
-- Little Shop Of Hashes (Bundle)
++ Little Shop Of Hashes (Bundle)
 
 Monday, October 14, 2024
 - keyboard_junkie
@@ -75,7 +75,7 @@ Wednesday, October 16, 2024
 Thursday, October 17, 2024
 - Linux Basics - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/70a644e5d4e4da7533580c5ff7c62d43d970a23d/Miscellaneous/Linux%20Basics)
 - The Void - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e994dc323e866eed485b509076f4d8d74ab995bc/Warmups/The%20Void)
-- moveable
+- MOVEable - [Partial write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/48f1dffa2a056996470934a455146edc13469e21/Web/MOVEable)
 - baby buffer overflow
 
 Friday, October 18, 2024
