@@ -11,11 +11,12 @@ To do:  add code analysis
 I set up my ngrok listener and netcat on my machine.
 
 ![ngrok](images/ngrok.PNG)  
-![netcat](images/revshell.PNG)  
-
-I then added my base64 encoded bash payload into the script.
 
 ![base64](images/base64payload.PNG)
+
+I then added my base64 encoded bash payload into the script and triggered the payload.
+
+![netcat](images/revshell.PNG)  
 
 Script to trigger the payload:
 
