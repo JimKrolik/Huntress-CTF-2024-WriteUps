@@ -2,17 +2,16 @@ Challenge:
 
 ![Challenge](images/1.challenge.PNG)
 
-We are given a script and are tasked with performing a side channel timing attack.
+We are given an executable binary and the source code.  Based on the title of the challenge, we need to perform a buffer overflow.
 
-To do:  add notes for writing the script.
+To do:  add debugging steps for overflow and finding offset
 
 
-After executing the script, we start receiving feedback for the characters.
 
-![Character](images/2.char1.PNG)
+Once we have our final payload coded, it's time to attack the server.
 
-Eventually, we crack our random password and claim the flag.
+I wrote a python script overflow and point the EIP register to 0x080491f5, which contains our shell.  Once we have access, I was able to retrieve the flag.
 
-![Flag](images/flag.PNG)
+![flag](images/flag.PNG)
 
-Flag: ```flag{ab6962e29ed608c0710dbf2910f358d5}```
+Flag: ```flag{4cd3b4079393e861af489ca063373f98}```
