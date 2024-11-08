@@ -88,7 +88,7 @@ Saturday, October 19, 2024
 
 Sunday, October 20, 2024
 - Y2J - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/0988dfac7509436aab68df18d5d66f39f4944d3e/Web/Y2J)
-- splunk_ii
+- Backdoor Splunked II - [Partial Write-up](
 
 Monday, October 21, 2024
 - Strive Marish Leadman TypeCDR
@@ -100,7 +100,7 @@ Tuesday, October 22, 2024
 
 Wednesday, October 23, 2024
 - Ping Me - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e0880ede02d953a8700a5ca9f7625c83d7bd49fa/Malware/Ping%20Me)
-+ time_will_tell
+- Time Will Tell - [Partial Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/c0ff2645549f7c4637595364ff1542aabf0b8ecc/Miscellaneous/Time%20will%20tell)
 
 Thursday, October 24, 2024
 - knights_quest
