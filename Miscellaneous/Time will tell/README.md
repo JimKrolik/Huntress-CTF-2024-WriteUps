@@ -9,7 +9,7 @@ To do:  add notes for writing the script.
 
 After executing the script, we start receiving feedback for the characters.
 
-![Character](images/char1.PNG)
+![Character](images/2.char1.PNG)
 
 Eventually, we crack our random password and claim the flag.
 
