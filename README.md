@@ -17,7 +17,7 @@ Wednesday, October 2, 2024
 Thursday, October 3, 2024
 - Cattle - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/1b2184df564847feb10431c1c64689011ca957de/Warmups/Cattle)
 + Nightmare on Hunt Street (Bundle)
-+ russian_roulette
++ Russian Roulette
 
 Friday, October 4, 2024
 - Whamazon - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/e0880ede02d953a8700a5ca9f7625c83d7bd49fa/Warmups/Whamazon)
@@ -62,8 +62,8 @@ Sunday, October 13, 2024
 + Little Shop Of Hashes (Bundle)
 
 Monday, October 14, 2024
-- keyboard_junkie
-- HiddenStreams
++ Keyboard Junkie
++ Hidden Streams
 
 Tuesday, October 15, 2024
 - Sekiro - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/bef2bd1f803ef64e6055f8f5e0f9897ccf03c114/Miscellaneous/Sekiro)
@@ -83,12 +83,12 @@ Friday, October 18, 2024
 - permission_to_proxy
 
 Saturday, October 19, 2024
-- stack_it
-- eco_friendly
++ Stack It
++ Eco-Friendly
 
 Sunday, October 20, 2024
 - Y2J - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/0988dfac7509436aab68df18d5d66f39f4944d3e/Web/Y2J)
-- Backdoor Splunked II - [Partial Write-up](
+- Backdoor Splunked II - [Partial Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/ea9fdc39912081102a2db2677fb6a61aa60f51fd/Forensics/Backdoored%20Splunk%20II)
 
 Monday, October 21, 2024
 - Strive Marish Leadman TypeCDR
@@ -114,13 +114,13 @@ Saturday, October 26, 2024
 + thats_life
 
 Sunday, October 27, 2024
-+ revenge_of_dpd
++ Revenge of Discount Programming Devices
 
 Monday, October 28, 2024
-+ rusty_bin
++ Rusty Bin
 
 Tuesday, October 29, 2024
-+ in_plain_sight
++ In Plain Sight
 
 Wednesday, October 30, 2024
 - Zippy - [Write-up](https://github.com/JimKrolik/Huntress-CTF-2024-WriteUps/tree/ab913eec7d7621a8a449bfeab8a4afb78dc88425/Web/Zippy)
